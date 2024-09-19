@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/1683a06c-3745-4eb8-b71f-cfd2325af1d0
+
+![game instructions](https://github.com/user-attachments/assets/d38cfc49-7937-4a00-9b35-906cce781840)
 # Interactive Platformer Game
 This is a fun and interactive platformer game built with Pygame. Navigate through levels, avoid falling off platforms, and aim for the highest score!
 
