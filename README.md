@@ -9,8 +9,8 @@ A scoring system that tracks your best score.
 Fun platforming mechanics with progressive difficulty.
 
 # Requirements
-Python 3.x
-Pygame library
+1. Python 3.x
+2. Pygame library
 
 # Installation
 Follow these steps to get the game running on your local machine:
