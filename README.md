@@ -32,10 +32,10 @@ Run the game using the following command in your terminal: python main.py
 The game window will open, and you can start playing!
 
 # Controls
-Arrow keys: Move left and right
-Spacebar: Jump
-Play Again: Restart the game
-Quit: Exit the game
+1. Arrow keys: Move left and right
+2. Spacebar: Jump
+3. Play Again: Restart the game
+4. Quit: Exit the game
 
 # How to Play
 The objective is to jump between platforms and reach the finish line at the top of the screen.
